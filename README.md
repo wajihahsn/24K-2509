@@ -5,6 +5,8 @@
 *welcome to my first ever repository for my pf lab task!*\
 
 **fun fact about me: i have a special attachment for culinary and food! 🍟**\
-![951f16d02ab880e411816283e719a943](https://github.com/user-attachments/assets/649584ac-89a9-462e-8b18-720d2a0abb93)
+***here's an insight of the food photography i've been doing, i've posted these on my food blog on instagram: @themealionnaire.***
+![blog collage](https://github.com/user-attachments/assets/4e2b7654-379e-4f3f-a3ad-3e8766bb33bb)
+
 
 
