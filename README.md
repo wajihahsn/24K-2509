@@ -2,6 +2,9 @@
 
 **My name is Syeda Wajiha Hassan,**\
 **an 18 year old pursuing BS Data Science at the National Univeristy of Computer and Emerging Sciences 🙌**\
-**fun fact about me: i have a special attachment for culinary and food! 🍟**\
 *welcome to my first ever repository for my pf lab task!*\
-!alt text (https://www.pinterest.com/pin/602708362662737207/ )\
+
+**fun fact about me: i have a special attachment for culinary and food! 🍟**\
+![951f16d02ab880e411816283e719a943](https://github.com/user-attachments/assets/649584ac-89a9-462e-8b18-720d2a0abb93)
+
+
